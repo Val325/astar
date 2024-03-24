@@ -1,0 +1,3 @@
+/home/ghost/progects/pathfinding/dfs/dfs/CMakeFiles/Astar.dir
+/home/ghost/progects/pathfinding/dfs/dfs/CMakeFiles/edit_cache.dir
+/home/ghost/progects/pathfinding/dfs/dfs/CMakeFiles/rebuild_cache.dir

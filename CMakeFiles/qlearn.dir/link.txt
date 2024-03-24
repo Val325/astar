@@ -1,0 +1,1 @@
+/bin/clang++  -Wl,-rpath lib -lSDL2_ttf -lSDL2_mixer -L lib CMakeFiles/qlearn.dir/src/main.cpp.o -o qlearn  -lSDL2 

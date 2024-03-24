@@ -1,0 +1,1 @@
+/bin/clang++  -Wl,-rpath lib -lSDL2_ttf -lSDL2_mixer -L lib CMakeFiles/Astar.dir/src/main.cpp.o -o Astar  -lSDL2 
